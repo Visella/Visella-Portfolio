@@ -82,7 +82,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">Phone</p>
-                    <p className="text-muted-foreground">+62-8953-8221-4190</p>
+                    <p className="text-muted-foreground">+62-895-3822-14190</p>
                   </div>
                 </div>
 
